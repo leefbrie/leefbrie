@@ -24,5 +24,6 @@ Here are some ideas to get you started:
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
+<a href="https://app.daily.dev/leefbrie"><img src="https://api.daily.dev/devcards/v2/bWI6aP4wPl1Vt3I41Qcp9.png?type=default&r=7h0" width="356" alt="Leefbrie's Dev Card"/></a>
 
 
